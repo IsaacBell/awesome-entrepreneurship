@@ -169,6 +169,7 @@
 - [Relay](https://www.relaypayments.com/) - Digital payments for logistics and trucking operations.
 - [FreshBooks](https://www.freshbooks.com) - Invoicing, accounting, and time tracking for small businesses.
 - [Wave](https://www.waveapps.com) - Free accounting, invoicing, and bookkeeping for small business.
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-entrepreneurship-v1) for white-label PDFs, batch CLI, and templates.
 
 ### Payroll, HR & International Hiring
 
