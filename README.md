@@ -205,6 +205,7 @@
 
 ## Learning Resources
 
+- [Social Media Metrics Guide (German, Switzerland)](https://followerkaufen.ch/guides/reichweite-aufrufe-likes-engagement-rate) - Free guide to reach, views and engagement ratios with labelled arithmetic examples and limits on inferring sales.
 - [Y Combinator Startup School](https://www.startupschool.org) - Free online program for founders.
 - [Khan Academy Finance](https://www.khanacademy.org/economics-finance-domain/core-finance) - Free courses on business finance and entrepreneurship.
 
