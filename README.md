@@ -45,6 +45,8 @@
 - [Watching the English](https://www.hachette.co.uk/titles/kate-fox/watching-the-english/9781529349757/) - Kate Fox's anthropological guide to English social rules.
 - [Blockchain Chicken Farm](https://us.macmillan.com/books/9780374538668/blockchainchickenfarm/) - On tech, rural China, and what technological progress does to ordinary people.
 
+- [The Offshore Trap](https://books.apple.com/us/book/the-offshore-trap/id6746251754) - Shehryar T. Ali on how software outsourcing relationships go wrong (2025).
+
 ## Operations
 
 ### Scheduling & Communication
