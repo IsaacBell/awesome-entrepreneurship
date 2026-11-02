@@ -121,6 +121,7 @@
 
 - [Indie Hackers](https://www.indiehackers.com) - Community for founders building profitable internet businesses.
 - [Product Hunt](https://www.producthunt.com) - Community for launching and discovering new products.
+- [MEDIAPRONET](https://mediapronet.com) - Directory where founders list and discover new startups, SaaS tools and indie products.
 - [GrowthHackers](https://growthhackers.com) - Community and content hub for growth marketing.
 - [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur) - Reddit community for entrepreneurs at every stage.
 - [r/SideProject](https://www.reddit.com/r/SideProject) - Reddit community for sharing and discussing side projects.
