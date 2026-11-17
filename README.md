@@ -149,6 +149,7 @@
 
 - [PostHog](https://posthog.com) - Product analytics with session replay and feature flags.
 - [Matomo](https://matomo.org) - Open-source web analytics platform.
+- [OneLence](https://onelence.com) - Finds growth opportunities across paid marketing, search, AI visibility and affiliates, and shows founders and marketing teams where to focus next.
 
 ## Finance & Legal
 
