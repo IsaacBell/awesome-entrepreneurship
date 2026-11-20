@@ -199,6 +199,7 @@
 - [Spocket](https://www.spocket.co) - Dropshipping marketplace of fast-shipping, mostly US/EU suppliers.
 - [QR Code Generator](https://the-qrcode-generator.com) - Free tool for generating QR codes for products and packaging.
 - [How to Make NFC Amiibo Cards](https://electronics.alibaba.com/buyingguides/how-to-make-nfc-amiibo-cards-a-practical-2026-guide) - Practical guide to producing NFC Amiibo cards as a product line.
+- [PlushSource](https://plushsource.com) - Free directory for finding a factory to make a custom plush toy, listing each manufacturer's minimum order, sample and production times and OEM/ODM capability as published on its own site.
 
 ## Freelancing & Marketplaces
 
