@@ -125,6 +125,7 @@
 - [GrowthHackers](https://growthhackers.com) - Community and content hub for growth marketing.
 - [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur) - Reddit community for entrepreneurs at every stage.
 - [r/SideProject](https://www.reddit.com/r/SideProject) - Reddit community for sharing and discussing side projects.
+- [RadarMakers](https://radarmakers.com) - Launch platform for indie makers where live products are ranked by votes, ratings and helpful comments.
 
 ## Product & Engineering
 
