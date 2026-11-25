@@ -143,6 +143,7 @@
 
 - [Canva](https://www.canva.com) - Drag-and-drop design for marketing and branding.
 - [Figma](https://www.figma.com) - Collaborative interface and product design tool.
+- [Kite](https://kite.new) - Design tool your AI agents and your team share, with editable layers and HTML/React/Tailwind export.
 - [Looka](https://looka.com) - Logo maker and brand kit generator.
 - [Remove.bg](https://www.remove.bg) - Instantly remove image backgrounds for product and marketing photos.
 - [Coolors](https://coolors.co) - Fast color palette generator for branding.
