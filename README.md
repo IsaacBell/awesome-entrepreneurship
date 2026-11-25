@@ -164,6 +164,7 @@
 - [Clerky](https://www.clerky.com) - Automated legal paperwork for startups and founders.
 - [Carta](https://carta.com) - Cap table and equity management for startups and investors.
 - [ZenBusiness](https://zenbusiness.com) - LLC formation and business compliance services.
+- [US State LLC Fees](https://github.com/zylarai/us-state-llc-fees) - Open dataset of the fee to form an LLC and the yearly cost to keep it in all 50 states and DC, sourced to official state pages.
 - [Rocket Lawyer](https://www.rocketlawyer.com) - Affordable legal documents and attorney help for small businesses.
 
 ### Banking, Finance & Bookkeeping
