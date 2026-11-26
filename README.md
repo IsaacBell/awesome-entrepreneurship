@@ -165,6 +165,7 @@
 - [Carta](https://carta.com) - Cap table and equity management for startups and investors.
 - [ZenBusiness](https://zenbusiness.com) - LLC formation and business compliance services.
 - [Rocket Lawyer](https://www.rocketlawyer.com) - Affordable legal documents and attorney help for small businesses.
+- [Business Texting Laws by State](https://www.advai.cloud/texting-laws) - Free state-by-state table of US laws on business text messages, including consent rules and permitted texting hours, written from the statutes.
 
 ### Banking, Finance & Bookkeeping
 
