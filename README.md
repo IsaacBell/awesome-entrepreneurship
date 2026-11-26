@@ -64,6 +64,7 @@
 - [Dialpad](https://www.dialpad.com/) - AI-powered business phone and contact center platform.
 - [Aircall](https://aircall.io/) - Cloud-based call center and phone system for sales and support teams.
 - [Mint Mobile](https://www.mintmobile.com) - Budget prepaid wireless plans for keeping business and personal lines cheap.
+- [Missed-Call Revenue Calculator](https://www.advai.cloud/missed-call-revenue-calculator) - Estimates the revenue and profit a service business loses to unanswered calls, with every assumption editable and the math shown. Free, no sign-up.
 
 ### Project & Team Management
 
